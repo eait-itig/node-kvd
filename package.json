@@ -1,0 +1,11 @@
+{
+	"name": "kvd",
+	"description": "EAIT KVD client for node.js",
+	"version": "1.0.0",
+	"main": "kvd.js",
+	"dependencies": {
+	},
+	"engines": {
+		"node": ">=0.9.0"
+	}
+}
