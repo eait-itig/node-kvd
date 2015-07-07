@@ -1,5 +1,5 @@
 {
-	"name": "kvd",
+	"name": "eait-kvd",
 	"description": "EAIT KVD client for node.js",
 	"version": "1.0.0",
 	"main": "kvd.js",
